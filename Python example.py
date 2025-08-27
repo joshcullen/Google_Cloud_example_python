@@ -5,7 +5,7 @@
 
 
 # Install packages (only need to run this `pip install` step for first time setting up)
-#pip install xarray netCDF4 numpy pandas matplotlib cartopy dask pydap h5netcdf zarr
+pip install xarray netCDF4 numpy pandas matplotlib cartopy dask pydap h5netcdf zarr
 
 import xarray as xr
 import matplotlib.pyplot as plt
